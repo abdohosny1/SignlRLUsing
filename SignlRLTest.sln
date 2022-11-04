@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignlRLTest", "SignlRLTest\SignlRLTest.csproj", "{2140C3C7-14AE-4EE3-AFBC-B37D51F9C5BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2140C3C7-14AE-4EE3-AFBC-B37D51F9C5BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2140C3C7-14AE-4EE3-AFBC-B37D51F9C5BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2140C3C7-14AE-4EE3-AFBC-B37D51F9C5BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2140C3C7-14AE-4EE3-AFBC-B37D51F9C5BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3347E538-6A4C-4C0F-8775-5D92A6CFCD31}
+	EndGlobalSection
+EndGlobal
